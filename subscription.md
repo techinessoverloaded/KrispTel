@@ -29,3 +29,5 @@ iframe.style.height = zf_ifrm_ht_nw;
 }, false);
 }catch(e){}
 })();</script>
+
+<a href="https://techinessoverloaded.github.io/KrispTel/index.html">&larr; Home</a>
