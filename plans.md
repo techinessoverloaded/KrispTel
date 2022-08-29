@@ -1,4 +1,5 @@
 **Available 4G Plans**
+
 **Postpaid Plans**
 
 | Plan Name | Mobile Data Limit | Are High Quality Voice Calls Provided (VoLTE) ? | Billing Cycle | Cost per Call |
@@ -9,3 +10,9 @@
 | POST4G4DATA | 120 GB | Yes | Yearly | ₹ 7.20 |
 | POST4G1 | 6 GB | No | Monthly | ₹ 0.70 |
 | POST4G2 | 72 GB | No | Yearly | ₹ 1.70 |
+
+**Prepaid Plans**
+
+| Plan Name | Mobile Data Limit | Are High Quality Voice Calls Provided (VoLTE) ? | Pack Validity | Pack Price |
+|:---:|:---:|:---:|:---:|:---:|
+| PRE4G1DATA | 1 GB/Day | Yes | 27 Days | ₹ 150.00 |
