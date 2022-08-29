@@ -16,3 +16,7 @@
 | Plan Name | Mobile Data Limit | Are High Quality Voice Calls Provided (VoLTE) ? | Pack Validity | Pack Price |
 |:---:|:---:|:---:|:---:|:---:|
 | PRE4G1DATA | 1 GB/Day | Yes | 27 Days | ₹ 150.00 |
+| PRE4G2DATA | 1.2 GB/Day | Yes | 54 Days | ₹ 350.00 |
+| PRE4G3DATA | 1.5 GB/Day | Yes | 84 Days | ₹ 590.00 |
+| PRE4G4DATA | 2 GB/Day | Yes | 84 Days | ₹ 790.00 |
+| PRE4G5DATA | 2.5 GB/Day | Yes | 108 Days | ₹ 980.00 |
