@@ -1,3 +1,5 @@
+### Plan Catalogue
+
 **Available 4G Plans**
 
 **Postpaid Plans**
@@ -47,3 +49,5 @@
 | PRE2G2 | No | N/A | No | 54 Days | ₹ 120.00 |
 | PRE2G3 | No | N/A | No | 84 Days | ₹ 270.00 |
 | PRE2G4 | No | N/A | No | 108 Days | ₹ 500.00 |
+
+<a href="https://techinessoverloaded.github.io/KrispTel/index.html">&larr; Home</a>
