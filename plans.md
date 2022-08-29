@@ -20,3 +20,10 @@
 | PRE4G3DATA | 1.5 GB/Day | Yes | 84 Days | ₹ 590.00 |
 | PRE4G4DATA | 2 GB/Day | Yes | 84 Days | ₹ 790.00 |
 | PRE4G5DATA | 2.5 GB/Day | Yes | 108 Days | ₹ 980.00 |
+| PRE4G1 | 1 GB/Day | No | 27 Days | ₹ 100.00 |
+| PRE4G2 | 1.2 GB/Day | No | 54 Days | ₹ 270.00 |
+| PRE4G3 | 1.5 GB/Day | No | 84 Days | ₹ 490.00 |
+
+**Available 2G Plans**
+
+**Postpaid Plans**
