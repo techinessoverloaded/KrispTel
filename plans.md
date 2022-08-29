@@ -26,4 +26,8 @@
 
 **Available 2G Plans**
 
+| Plan Name | Is Mobile Data Provided ? | Mobile Data Limit (if Applicable) | Are High Quality Voice Calls Provided (VoLTE) ? | Billing Cycle | Cost per Call |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| POST2G1DATA |  | 6 GB | Yes | Monthly | ₹ 2.70 |
+
 **Postpaid Plans**
