@@ -1,4 +1,4 @@
-### Plan Catalogue
+**Plan Catalogue**
 
 **Available 4G Plans**
 
