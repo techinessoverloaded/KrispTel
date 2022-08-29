@@ -39,7 +39,11 @@
 
 | Plan Name | Is Mobile Data Provided (GPRS) ? | Mobile Data Limit (if Applicable) | Are High Quality Voice Calls Provided (VoLTE) ? | Pack Validity | Pack Price |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| PRE2G1DATA | Yes | 0.4 GB/Day | Yes | 27 Days | ₹ 70.00 |
-| PRE2G2DATA | Yes | 0.6 GB/Day | Yes | 54 Days | ₹ 190.00 |
-| PRE2G3DATA | Yes | 1 GB/Day | Yes | 84 Days | ₹ 400.00 |
-| PRE2G1DATA | Yes | 2 GB/Day | Yes | 108 Days | ₹ 750.00 |
+| PRE2G1DATA | Yes | 0.4 GB/Day | No | 27 Days | ₹ 70.00 |
+| PRE2G2DATA | Yes | 0.6 GB/Day | No | 54 Days | ₹ 190.00 |
+| PRE2G3DATA | Yes | 1 GB/Day | No | 84 Days | ₹ 400.00 |
+| PRE2G1DATA | Yes | 2 GB/Day | No | 108 Days | ₹ 750.00 |
+| PRE2G1 | No | N/A | No | 27 Days | ₹ 50.00 |
+| PRE2G2 | No | N/A | No | 54 Days | ₹ 120.00 |
+| PRE2G3 | No | N/A | No | 84 Days | ₹ 270.00 |
+| PRE2G4 | No | N/A | No | 108 Days | ₹ 500.00 |
